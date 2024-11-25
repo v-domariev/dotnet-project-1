@@ -26,6 +26,7 @@
     <ProjectReference Include="..\hotelsystem.client\hotelsystem.client.esproj">
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
     </ProjectReference>
+    <ProjectReference Include="..\HotelSystem.Domain\HotelSystem.Domain.csproj" />
   </ItemGroup>
 
 </Project>
